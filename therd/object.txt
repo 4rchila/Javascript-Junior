@@ -1,0 +1,58 @@
+en la programacion normal nosotros escribimos instruccion tras instruccion
+pero en la programacion origentada a objetos trabajamos con una especie de idiolgia tenemos el mismo paradigma como referencia , tomar en en cuenta que los objetos tienen dos concepotos que los definen que son sus cualidades y caracterizticas por ejemplo alturo color marca perta. 
+
+tambien un objeto tendria las funcionalidades en el caso de un auto seria el arranque el frenar , que en los objetos conocemos como metodos
+
+estos tienen metodos y propiedades
+
+metodos:  las funcionalidades del objeto
+propiedades: las partes del objeto
+
+esta programacion fue creada para crear cosas origentadas para la videa real
+
+clases:
+especie de plantilla que contiene todas las caracteristicas de un objeto en si
+
+objeto:
+porcion de codigo donde tomamos todo lo que esta predefinido en la clase (clase es idea)
+
+perro
+
+clase : color , tamaño, pelaje, ojos, si corre (idea del perro)
+objeto : perro real
+
+propiedades: caracteristicas del objeto, color del perro valor marron son acompañadas de un valor 
+
+propiedad: color valor: marrron
+
+metodos: funciones que se aplican a un objeto
+
+metodo: ladra
+
+polimorfismo : capacidad de los objetos de comportarse de una manera diferente a un metodo
+
+por ejemplo clase animales y digo corre
+un perro core de una forma y un gato de otra forma
+
+comportarse de manera diferente siendo del mismo metodo
+
+herencia:
+capacidad de eredar codigo en clases despues
+
+echisero 1
+
+reechisero2
+
+definimos echisero y reechisero2ereda lo de echisero y le agregamos
+
+tenemos Herencias multiples
+
+atributo son las particularidades  caracteristicas del objeto
+
+metodo  es lo que puede hacer nuestro objeto
+
+constructo quien sera quien nos construya las propiedades del objeto
+
+
+
+
