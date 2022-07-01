@@ -1,4 +1,9 @@
 body{
     color: #222;
     font-family: sans-serif;
+    width: 100%;
+    /* text-align: center; */
+}
+.long{
+    font-size: 4rem;
 }
