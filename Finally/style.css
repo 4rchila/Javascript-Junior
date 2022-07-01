@@ -1,0 +1,55 @@
+.div-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: sans-serif;
+    color: rgb(9, 9, 31);
+}
+.contenin-item{
+    flex-grow: 1;
+    margin: 20px;
+    max-width: 300px;
+    border: 2px solid black;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+.contenin-item:focus{
+    border-color:  rgb(130, 255, 130);
+    box-shadow: 0px 0px 13px black;
+     border-radius: 5px;
+
+}
+.contenin-item:hover{
+    border-color:  rgb(130, 255, 130);
+    box-shadow: 0px 0px 13px black;
+     border-radius: 5px;
+}
+h2,h3{
+    margin: 0;
+}
+h3{
+ color: rgb(122, 122, 255);
+}
+p b{
+    color: rgb(130, 255, 130);
+}
+.imagenKey{
+    width: 300px;
+}
+form{
+    width:100%;
+    text-align: center;
+    padding: 50px;
+}
+input[type='submit']{
+    background-color: rgb(19, 53, 19);
+    color:#fff;
+    border: none;
+    padding: 12px 28px;
+    font-size: 18px;
+    letter-spacing: 1px;
+
+}
+.send-button{
+    
+}
